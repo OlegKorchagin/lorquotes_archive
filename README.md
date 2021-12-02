@@ -24,5 +24,9 @@ fortune  PATH_TO_DIR_OR_FILE
 fortune $HOME/Документы/fortunes/ || /bin/true
 ```
 
+
+инструкция с lorquotes:
+> Скопируйте этот текст и сохраните его в ```/usr/share/fortunes``` для использования в программе ```fortune```. Не забудьте выполнить команду ```$ strfile имя_файла```для создания индекса.
+
 # see also
 https://www.linux.org.ru/forum/talks/16518115
